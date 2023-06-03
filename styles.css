@@ -5,3 +5,22 @@
 .primary-h1{
     color: navy;
 }
+
+.form-div{
+    background-color: aqua;
+    padding: 20px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    background-color: azure;
+    padding: 20px;
+}
+
+.btn-submit{
+    background-color: bisque;
+    width: 150px;
+    height: 30px;
+}
